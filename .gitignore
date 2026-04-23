@@ -1,0 +1,10 @@
+.venv/
+venv/
+.env
+reference_repo
+xai_credit_risk_project/project_trial.ipynb
+xai_credit_risk_project/review1.ipynb
+xai_credit_risk_project/test_model.ipynb
+xai_credit_risk_project/test_project.ipynb
+text_api.py
+.DS_Store
